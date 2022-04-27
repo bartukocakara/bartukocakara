@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:  
 ### 🌱 I’m currently learning :
-   Golang Docker Aws
+   -  Golang
+   -  Docker
+   -  Aws
 
 Demo Projects
 - Go
