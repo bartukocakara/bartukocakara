@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
+
 **bartukocakara/bartukocakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  
+# 🌱 I’m currently learning :
+        - Golang Docker Aws
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Demo Projects
+- Go
+ https://restaurant-go-app.herokuapp.com/tables
+ https://github.com/bartukocakara/golang-mongodb
+- Vuejs
+ https://vue-trendyol.netlify.app
+ https://github.com/bartukocakara/e-commerce-vue
+- Reactjs
+ https://baskethub.netlify.app
+ https://github.com/bartukocakara/baskethub
