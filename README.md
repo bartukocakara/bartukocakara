@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 
 Demo Projects
 - Go
- https://restaurant-go-app.herokuapp.com/tables
- https://github.com/bartukocakara/golang-mongodb
+  - https://restaurant-go-app.herokuapp.com/tables
+  - https://github.com/bartukocakara/golang-mongodb
 - Vuejs
- https://vue-trendyol.netlify.app
- https://github.com/bartukocakara/e-commerce-vue
+  - https://vue-trendyol.netlify.app
+  - https://github.com/bartukocakara/e-commerce-vue
 - Reactjs
- https://baskethub.netlify.app
- https://github.com/bartukocakara/baskethub
+  - https://baskethub.netlify.app
+  - https://github.com/bartukocakara/baskethub
