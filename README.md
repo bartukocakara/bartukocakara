@@ -2,7 +2,6 @@
 ### 🌱 I’m currently learning :
    -  Golang
    -  Docker
-   -  Aws
 
 Demo Projects
 - Go
