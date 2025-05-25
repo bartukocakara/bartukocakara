@@ -1,4 +1,3 @@
 ### Hi 👋
 ### 🌱 I’m currently learning :
-   -  Golang
-   -  Docker
+   -  Pandas, Numpy, Lineer Algebra, Calculus, Machine Learning,
