@@ -16,7 +16,7 @@
 
 ### 💻 Languages
 
-Java • PHP • Python • SQL
+Java • PHP • Python • Golang • SQL
 
 ### 🗄️ Databases
 
