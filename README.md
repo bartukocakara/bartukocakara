@@ -49,7 +49,6 @@ Claude • OpenCode • AI-assisted development tools
 
 ## 📫 Reach Me
 
-* GitHub: https://github.com/bartukocakara
 * LinkedIn : https://www.linkedin.com/in/bartu-kocakara
 
 ---
